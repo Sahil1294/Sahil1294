@@ -2,8 +2,7 @@
 <h3 align="center">Designing Smart Decisions With Data</h3>
 
 <p align="center">
-"<img width="800" height="600"  src="https://i.pinimg.com/originals/59/6e/03/596e03dd97d5ac024aeab46d7fe414fb.gif" />
-
+<img src="https://raw.githubusercontent.com/Sahil1294/image/main/Layer%20Data%20Visualization.gif" hight ="100" width="700" alt="Data Visualization GIF"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil1294&label=Profile%20views&color=0e75b6&style=flat" alt="sahil1294" /> </p>
