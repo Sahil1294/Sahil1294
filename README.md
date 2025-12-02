@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on an **Out-fit Recommendation System** using Machine Learning.
 - 🌱 I’m currently learning **Power BI** for advanced visualization and deepening my understanding of **Data Structures and Algorithms (DSA)**.
-- 🎓 **Data Science Student** | Currently pursuing [Your Degree/Course Name] from [Your Institution].
+- 🎓 **Data Science Student** | Currently pursuing Bsc.Data Science from Savitribai Phule University
 - 🎯 Aspiring to leverage **Machine Learning** and **Data Visualization** to solve real-world problems.
 - 📧 How to reach me: **sahilsathe666@gmail.com**
 - ⚡ Fun fact: **I think I can read your mind**
